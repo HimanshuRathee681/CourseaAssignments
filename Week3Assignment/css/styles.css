@@ -1,0 +1,68 @@
+body{
+	font-size: 16px;
+	background-color: #17F9EA;
+	color: #000000;
+	font-family: 'Oxygen', sans-serif;
+}
+
+h2{
+	margin-top: 20px;
+	margin-bottom: 20px;
+	/*text-align: center;*/
+	font-size: 2.2em;
+}
+div h3{
+	text-align: center;
+	font-size: 1.6em;
+	margin-top: 10px;
+}
+#Chicken, #Beef, #Sushi{
+	width: 100%;
+	background-color: #04988E;
+	border:  1px solid #000000;
+	margin-bottom: 20px;
+}
+div p {
+	padding: 10px;
+}
+
+p>a{
+	color: #A70C42;
+}
+p>a:hover{
+	color: #A70C42;
+
+}
+
+button.navbar-toggle{
+	background-color: #CEF8FD;
+	
+	border: 1px solid #000000;
+}
+
+#nav-list a{
+	color: #A70C42;
+	font-size: 1.2em;
+	text-align: center;
+}
+#nav-list a:hover{
+	background-color: #CEF8FD;
+	color: #A70C42;
+}
+#header-nav{
+	background-color: #04988E;
+	border-radius: 0;
+	border-radius: 0;
+	border:  2px solid #000000;
+	padding-top: 20px;
+	padding-bottom: 20px;
+}
+
+
+navbar-brand{
+	min-height: 150px;
+}
+span{
+	font-size: 2.6em;
+	color: #000000;
+}
